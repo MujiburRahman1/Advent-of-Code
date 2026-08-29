@@ -10,7 +10,7 @@ Here you'll find all my solutions for 12 days, crafted in an efficient and reada
 **Advent of Code** is an annual coding challenge with fun, festive puzzles for each day of December.  
 This repo contains my solutions implemented in **Python**, along with clear notes, examples, and outputs.
 
-<img width="1426" height="765" alt="image" src="https://github.com/user-attachments/assets/40a2f9a2-19e2-4368-a8f4-0fd7492d4904" />
+<img width="1426" height="765" src="./assets/advent of code 2025.png" />
 
 
 ---
