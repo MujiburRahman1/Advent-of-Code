@@ -17,7 +17,7 @@ This repo contains my solutions implemented in **Python**, along with clear note
 
 I secured **#11 in Pakistan** on the **Advent of Code 2025** leaderboard, completing 12 days of algorithmic challenges and earning **24 stars**.
 
-<img width="900" alt="Advent of Code 2025 - Pakistan Ranking" src="./assets/leader board rank.png" />
+<img width="900" alt="Advent of Code 2025 - Pakistan Ranking" src="./assets/leader borad rank.png" />
 
 ## 💡 Highlights
 
