@@ -1,7 +1,5 @@
 # 🎄 Advent of Code 2025 — Day 12: *Christmas Tree Farm*     
 A spatial-packing challenge where uniquely shaped presents must fit perfectly under each Christmas tree.  
-<img width="1442" height="821" alt="image" src="https://github.com/user-attachments/assets/39c40b05-d4d3-42f5-b97d-1590f6f61807" />
-
 
 ---
 
@@ -22,15 +20,10 @@ Your goal:
 ✔ Generate all rotations/flips  
 ✔ Perform optimized placement using bitmasks + backtracking  
 ✔ Count how many regions can fully accommodate all presents
-
-<img width="1418" height="724" alt="image" src="https://github.com/user-attachments/assets/1ea3766f-34eb-49dc-9ef8-a8d317175e84" />
-
 ---
 
 ### **Part 2**
 Got built Christmas Tree Farm and got the final start ⭐
-
-<img width="1021" height="676" alt="image" src="https://github.com/user-attachments/assets/0e3af032-a45b-43dd-8cad-b7b126ca61e0" />
 
 
 ---
