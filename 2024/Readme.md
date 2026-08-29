@@ -1,11 +1,30 @@
-# 🎄 Advent of Code 2024 🎄
+# 🎄 Advent of Code 2024 - Solutions Repository
 
-<img src="https://wp.technologyreview.com/wp-content/uploads/2021/12/aoc-santa-hat.gif?w=400" alt="AoC" align="">
+Welcome to my **Advent of Code 2024** journey! 🚀  
+Here you'll find all my solutions for 25 days, crafted in an efficient and readable way, along with problem summaries and results.
 
-<br />
+---
 
-Welcome to my **Advent of Code 2024** solutions repository!  
-Advent of Code is an annual event featuring daily programming puzzles during December. Each day unlocks two puzzles that test problem-solving and algorithmic skills.
+## 🔹 About
+
+**Advent of Code** is an annual coding challenge with fun, festive puzzles for each day of December.  
+This repo contains my solutions implemented in **Python**, along with clear notes, examples, and outputs.
+
+<img width="1426" height="765" alt="Advent of Code 202" src="./assets/advent of code 2024.png" />
+
+---
+## 🏆 Achievement
+
+I secured **#11 in Pakistan** on the **Advent of Code 2025** leaderboard, completing 12 days of algorithmic challenges and earning **24 stars**.
+
+<img width="900" alt="Advent of Code 2025 - Pakistan Ranking" src="./assets/leaderboard rank.png" />
+
+## 💡 Highlights
+
+- Clean and optimized solutions.  
+- Part 1 & Part 2 solved for all 25 days.  
+- Sample input/output included for clarity.  
+- Perfect for reference or learning problem-solving strategies.
 
 ---
 
@@ -40,8 +59,3 @@ Advent of Code is an annual event featuring daily programming puzzles during Dec
 | 25  | Code Chronicle            | ✅ `3133`              | ✅ **STAR**                                  | ⭐⭐         |
 
 ---
-
-# 🚀 Follow me on Github :)
-
-
-## Made with 🤍 - Code by **Haris Mughal**
