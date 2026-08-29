@@ -1,8 +1,6 @@
 # 🎄 Advent of Code 2025 — Day 3: *Lobby*   
 Activate batteries from each bank to form the largest possible joltage while preserving their order.
 
-<img width="1394" height="829" alt="Screenshot 2025-12-03 205332" src="https://github.com/user-attachments/assets/bc49fc9d-8d1c-4789-aa88-5ad167035cdf" />
-
 ---
 
 ## 📌 Challenge Summary
@@ -17,9 +15,6 @@ You must choose **exactly 2 batteries** from each bank.
 Your goal:  
 ➡️ Form the **largest 2-digit number** by selecting digits while keeping the original order.
 
-<img width="1392" height="685" alt="Screenshot 2025-12-03 205058" src="https://github.com/user-attachments/assets/9cc53788-8c5d-4720-b85d-a19a80a9793d" />
-
-
 ---
 
 ### **Part 2**
@@ -27,9 +22,6 @@ You must choose **exactly 12 batteries** from each bank.
 
 Your goal:  
 ➡️ Form the **largest 12-digit number** using an optimized ordered subsequence.
-
-<img width="1388" height="688" alt="Screenshot 2025-12-03 205219" src="https://github.com/user-attachments/assets/0e2382e8-b7c3-4a5e-a8e9-1571a7b320a0" />
-
 
 ---
 
