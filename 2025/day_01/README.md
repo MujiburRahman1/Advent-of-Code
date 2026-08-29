@@ -1,7 +1,5 @@
 # 🎄 Advent of Code 2025 — Day 1: *Secret Entrance* 🔐
 
-<img width="1346" height="826" alt="Screenshot 2025-12-01 235024" src="https://github.com/user-attachments/assets/0e2a9005-8cb5-4190-8f79-cc7d93e93af8" />
-
 
 ## 📘 Challenge Summary
 The elves set up a giant circular lock with **100 positions (0–99)**.  
